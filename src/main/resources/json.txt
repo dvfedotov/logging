@@ -1,0 +1,7 @@
+{
+    "header": "Greetings",
+    "body": "Hi, there!",
+    "username": "Harry"
+}
+
+http://localhost:9005/api/v1/signature
